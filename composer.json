@@ -1,5 +1,5 @@
 {
-  "name": "torann/laravel-cloudsearch",
+  "name": "ejklock/laravel-cloudsearch",
   "type": "library",
   "description": "Index and search Laravel models on Amazon's CloudSearch.",
   "keywords": [
